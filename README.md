@@ -1,6 +1,9 @@
 # Shipping Cost Prediction using Linear Regression 💸✈️🚚🚢💲
 
-![image](https://github.com/keerthikkn/Shipping_cost_prediction/assets/42544473/39b78678-356d-42e3-91a2-5995f29f1f7a)
+![image](https://github.com/rasi23/Shipping-Cost-Prediction-Code/blob/main/Images/MAIN1.png)
+![image](https://github.com/rasi23/Shipping-Cost-Prediction-Code/blob/main/Images/MAIN2.png)
+![image](https://github.com/rasi23/Shipping-Cost-Prediction-Code/blob/main/Images/MAIN3.png)
+![image](https://github.com/rasi23/Shipping-Cost-Prediction-Code/blob/main/Images/MAIN4.png)
 
 
 This repository contains a machine learning model trained to predict shipping costs based on various features. The model utilizes the Linear Regression algorithm, a popular method for modeling the relationship between dependent and independent variables.
@@ -16,8 +19,6 @@ The dataset used for training and evaluation contains historical shipping data, 
 ![image](https://github.com/keerthikkn/Shipping_cost_prediction/assets/42544473/9d74128f-b1ca-406f-95f2-f0912906a792)
 ![image](https://github.com/keerthikkn/Shipping_cost_prediction/assets/42544473/b6a20058-51d3-4566-9fd8-bfe8c66cc368)
 ![image](https://github.com/keerthikkn/Shipping_cost_prediction/assets/42544473/8645dd1c-f777-4413-963f-59e8f7f9bb43)
-
-
 
 
 ## Model Architecture
